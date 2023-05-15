@@ -75,7 +75,7 @@ const Settings = ({ colors }) => {
                                 <input
                                     type="number"
                                     name="pomodoroLenght"
-                                    min={1}
+                                    min={15}
                                     max={45}
                                     defaultValue={minutesPomodoro}
                                     onChange={(e) => setMinutesPomodoro(parseInt(e.target.value))}
