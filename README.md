@@ -6,6 +6,6 @@ It is possible to create an account to store data such as the time for each pomo
 
 ## Getting Started
 
-To test the application, please go to the following link ~> [Pomodoro App at Netlify](0x4d5041pomodoroapp.netlify.app/)
+To test the application, please go to the following link ~> [Pomodoro App at Netlify](https://0x4d5041pomodoroapp.netlify.app/)
 
 The app can work without the need for an account, but if you want to use one, you can easily create it.
